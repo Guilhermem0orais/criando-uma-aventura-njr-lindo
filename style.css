@@ -1,7 +1,19 @@
 body {
-background-color: rgb(252, 232, 208);
-color: black;
-font-family: "hieroglyphs" sans-serif;
+    background-color: rgb(252, 232, 208);
+    color: black;
+    font-family: "Noto Sans Anatolian Hieroglyphs", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 0;
+
+
+    button {
+        background-color: blueviolet;
+        color: black;
+        font-family: "Noto Sans Anatolian Hieroglyphs", sans-serif;
+    }
 
 
 }
